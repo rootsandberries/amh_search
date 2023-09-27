@@ -2,7 +2,7 @@
 
 This repository contains the code and associated files for the search strategy development for "Abortion and patients' mental health outcomes: A systematic review and meta-analysis". More details about the search strategy development process can be found in [Open Science Framework](https://osf.io/v8t92/). 
 
-This repository includes code for term harvesting using the R package [*litsearchr*[(https://elizagrames.github.io/litsearchr/) and a short script for converting exports from [Yale MeSH Analyzer](https://mesh.med.yale.edu/) to a list of medical subject heading (MeSH) terms in .csv format.
+This repository includes code for term harvesting using the R package [*litsearchr*](https://elizagrames.github.io/litsearchr/) and a short script for converting exports from [Yale MeSH Analyzer](https://mesh.med.yale.edu/) to a list of medical subject heading (MeSH) terms in .csv format.
 
 ## litsearchr analysis
 To establish the set of studies for keyword analysis, a "naive search" in Web of Science Social Science Citation Index (SSCI) and Science Citation Index-Expanded (SCI-EXPANDED) was combined with 94 benchmark studies identified from previous systematic reviews and other methods. 
