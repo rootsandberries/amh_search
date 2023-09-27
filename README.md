@@ -4,7 +4,7 @@ This repository contains the code and associated files for the search strategy d
 
 This repository includes code for term harvesting using the R package [*litsearchr*](https://elizagrames.github.io/litsearchr/) and a short script for converting exports from [Yale MeSH Analyzer](https://mesh.med.yale.edu/) to a list of medical subject heading (MeSH) terms in .csv format.
 
-## litsearchr analysis
+## *litsearchr* analysis
 To establish the set of studies for keyword analysis, a "naive search" in Web of Science Social Science Citation Index (SSCI) and Science Citation Index-Expanded (SCI-EXPANDED) was combined with 94 benchmark studies identified from previous systematic reviews and other methods. 
 
 Naive search:
@@ -20,7 +20,7 @@ List of files:
 * pubmed_94.ris
 * wos_naive_605.ris
 
-## Yale MeSH Analyzer Cleanup
+## Yale MeSH Analyzer cleanup
 Yale MeSH Analyzer takes a list of PubMed IDs and provides a summary of associated MeSH terms and other metadata in a wide format spreadsheet. A short script was developed to facilitate deduplication of MeSH terms across studies and screening for relevant terms.
 
 **yale_mesh_cleanup.R**
