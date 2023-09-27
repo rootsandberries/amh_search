@@ -23,9 +23,9 @@ List of files:
 ## Yale MeSH Analyzer cleanup
 Yale MeSH Analyzer takes a list of PubMed IDs and provides a summary of associated MeSH terms and other metadata in a wide format spreadsheet. A short script was developed to facilitate deduplication of MeSH terms across studies and screening for relevant terms.
 
-**yale_mesh_cleanup.R**
+**yale_mesh_cleanup.R**:
 R script to convert Yale MeSH Analyzer output into a simple list of MeSH terms in .csv format.
 
-**mesh_terms/** Directory containing output files from Yale MeSH Analyzer search for 94 benchmark studies.
+**mesh_terms/**: Directory containing output files from Yale MeSH Analyzer search for 94 benchmark studies.
 
 
