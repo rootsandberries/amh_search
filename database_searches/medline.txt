@@ -1,0 +1,34 @@
+# Abortion and mental health outcomes: A systematic review and meta-analysis
+## Medline
+## Ovid
+
+
+1	Abortion, Induced/ OR Abortion, Legal/ OR Abortion, Therapeutic/ OR Abortion, Eugenic/ OR Abortion Applicants/ OR Abortion, Criminal/ 
+2	(abort* OR postabort* OR "post-abort*" OR "post abort*" OR feticide OR foeticide OR ((f?etal* OR f?etus* OR gestat* OR interpregnan* OR midtrimester* OR "mid-trimester*" OR pregnan* OR prenatal* OR "pre natal*" OR trimester*) adj3 (terminat* OR "post-terminat*" OR postterminat*)) OR (pregnanc* adj2 resolution) OR  (((elective* OR voluntar* OR induced) adj2 (interrupt* OR terminat*)) AND (f?etal* OR f?etus* OR gestat* OR interpregnan* OR midtrimester* OR pregnan* OR prenatal* OR "pre natal*" OR trimester*))).ti,ab,kf,ot,oa.
+3	1 OR 2
+4	Mental disorders/ OR Mental health/ OR Psychological Well-Being/ OR Psychological Trauma/
+5	(((mental* OR psychological* OR psychiatric* OR emotional OR psychotic OR stress) adj2 disorder*) OR ((mental* OR psycho* OR psychiatric*) adj3 (condition* OR disease* OR health OR ill* OR problem* OR well-being OR "well being" OR response* OR distress OR stress OR trauma* OR effect$1)) OR ((psychological* OR psychiatric*) adj (episode* OR outcome* OR morbidity OR consequence* OR sequela* OR symptom* OR implication* OR maladjust* OR indication* OR reaction*))).ti,ab,kf,ot,oa.
+6	exp Mood Disorders/ OR Depression/ OR Affective Symptoms/
+7	(depression OR depressive* OR anxiety OR ((mood OR affective) adj disorder) OR "affective symptom*" OR bipolar OR mania* OR manic* OR dysphori* OR dysthymi* OR rapid cycl$ OR hebephreni* OR MDD).ti,ab,kf,ot,oa.
+8	exp Anxiety Disorders/ OR Stress Disorders, Post-Traumatic/
+9	(anxiet* OR anxious* OR obsessive* OR compulsi* OR ocd OR panic* OR phobi* OR agoraphobi* OR claustrophobi* OR "post-traumatic*" OR posttraumatic* OR PTSD OR "recur* thought*").ti,ab,kf,ot,oa.
+10	exp Psychotic Disorders/ OR exp Schizophrenia/ OR Affective Disorders, Psychotic/ OR Delusions/ OR Hallucinations/ OR Paranoid Disorders/ OR Dissociative Disorders/
+11	(delusion* or hallucin* or paranoi* OR psychosis OR psychoses OR psychotic* OR schizo* OR dissociation OR dissociative).ti,ab,kf,ot,oa.
+12	exp Dyssomnias/ OR exp Parasomnias/
+13	((sleep* adj1 (disorder* OR disturb* OR depriv* OR apnea OR syndrome* OR initiat* OR maintenance OR paralysis)) OR insomni* OR dyssomni* OR sleepless* OR hypersominia OR hypersomnolence OR narcolep* OR cataplex* OR somnambulism OR "sleep walk*" OR "sleep wake" OR parasomni*).ti,ab,kf,ot,oa.
+14	Sexual Dysfunctions, Psychological/ OR Dyspareunia/ OR "Sexual and Gender Disorders"/ OR Vaginismus/
+15	((sex* OR psychosex* OR orgasm* OR arousal) adj2 (disorder* OR dysfunction*) OR dyspareuni* OR vaginism* OR "sex* aversion").ti,ab,kf,ot,oa.
+16	exp Self-Injurious Behavior/
+17	(suicid* OR selfharm* OR "self harm*" OR selfinjur* OR "self injur*" OR selfmutilat$ OR "self mutilat*" OR selfdestruct* OR "self destruct*" OR selfpoison* OR "self poison*" OR (self adj2 cut*) OR cutt* OR selfimmolat* OR "self immolat*" OR selfinflict* OR "self inflict*" OR automutilat* OR "auto mutilat*" OR nonsuicid* OR "non-suicid*" OR parasuicid* OR "para-suicid*").ti,ab,kf,ot,oa.
+ 
+ 
+18	exp "Feeding and Eating Disorders"/ OR exp Hyperphagia/
+19	(anorexi* OR ((appetite OR eating) adj disorder*) OR binge* OR binging OR purg* OR bulimia OR bulimic* OR (compuls* AND (eat* or vomit*)) OR (food* AND bing*) OR hyperphagi* OR ("self induc*" AND vomit*) OR pica OR orthore* OR geophag* OR ednos OR osfed OR arfid OR "avoidant restrictive food intake" OR allotriophag*).ti,ab,kf,ot,oa.
+20	exp Substance-Related Disorders/ OR exp Drug Misuse OR exp Illicit Drugs/ OR Designer Drugs/ OR "Marijuana Use"/ OR exp Narcotics/
+21	(((alcohol* OR drug$1 OR polydrug* OR substance* OR polysubstance* OR liquor*) adj2 (use* OR using OR abus* OR addict* OR misus* OR dependen* OR illegal* OR illicit* OR unlawful* OR criminal* OR overdos* OR recreation* OR "over dos*" OR abstain* OR abstinen* OR consumes OR consume OR consumption OR problem$1 OR nonmedical OR "non-medical" OR criminal*)) OR ((drug* or polydrug* or substance* OR polysubstance*) adj rehab$) OR (crave* adj2 inject*) OR "abusable product*" OR "hard drugs" OR "soft drugs" OR "needle fixation" OR ATOD OR "binge drinking" OR "drinking binge*" OR "habitual drinking" OR "drinking habit*" OR alcoholism OR (chemical* adj (dependen* OR addict*)) OR ((amphetamin* OR cannabis* OR cocaine OR dexamfetamin* OR dextroamphetamin* OR dexedrine OR heroin OR marijuana OR marihuana OR methamphetamin* OR psychostimulant* OR stimulant$1 OR opioid* OR opiate* OR fentanyl OR benzodiazepine* OR tranquiliz* OR hallucinogen* OR amobarb* OR "angel dust" OR barbiturate* OR demerol OR hash OR hashish OR hydrocodone OR hydromorphone OR lsd OR "lysergic acid" OR mdma OR morphine OR narcotic* OR opium OR oxycodone OR oxycontin OR ecstasy OR pcp OR "street drug*" OR vicodin OR ketamine OR inhalant* OR psychedelic*) adj2 (abus* or addict* or misus* or depend* or use$1))).ti,ab,kf,ot,oa.
+22	exp Psychotropic Drugs/
+23	((psychiatric OR psychological) adj2 (hospital* OR service* OR outpatient* OR inpatient* OR patient* OR treatment* OR admission*)).ti,ab,kf,ot,oa.
+24	((antidepress* OR "anti-depress*" OR  antianxiety OR "anti-anxiety" OR antipsychotic* OR "anti-psychotic*" OR psychotropic* OR stimulant* OR psychoactive OR antimanic OR "anti-manic") adj3 (drug* OR medicat* OR agent* OR substance*)).ti,ab,kf,ot,oa.
+25	or/ 4-24
+26	3 AND 25
+
