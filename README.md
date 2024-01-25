@@ -28,4 +28,4 @@ R script to convert Yale MeSH Analyzer output into a simple list of MeSH terms i
 
 **mesh_terms/**: Directory containing output files from Yale MeSH Analyzer search for 94 benchmark studies.
 
-
+**database_searches/**: This directory contains the database search strings that will be used in the final review. These are currently under development. 
