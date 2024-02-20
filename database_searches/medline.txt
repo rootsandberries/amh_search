@@ -1,5 +1,5 @@
 # Abortion and mental health outcomes: A systematic review and meta-analysis
-## Medline
+## Medline(R) ALL 1946 to February 19, 2024
 ## Ovid
 
 
@@ -9,9 +9,9 @@
 4	Mental disorders/ OR Mental health/ OR Psychological Well-Being/ OR Psychological Trauma/
 5	(((mental* OR psychological* OR psychiatric* OR emotional OR psychotic OR stress) adj2 disorder*) OR ((mental* OR psycho* OR psychiatric*) adj3 (condition* OR disease* OR health OR ill* OR problem* OR well-being OR "well being" OR response* OR distress OR stress OR trauma* OR effect$1)) OR ((psychological* OR psychiatric*) adj (episode* OR outcome* OR morbidity OR consequence* OR sequela* OR symptom* OR implication* OR maladjust* OR indication* OR reaction*))).ti,ab,kf,ot,oa.
 6	exp Mood Disorders/ OR Depression/ OR Affective Symptoms/
-7	(depression OR depressive* OR anxiety OR ((mood OR affective) adj disorder) OR "affective symptom*" OR bipolar OR mania* OR manic* OR dysphori* OR dysthymi* OR rapid cycl$ OR hebephreni* OR MDD).ti,ab,kf,ot,oa.
+7	(depression OR depressive* OR anxiety OR ((mood OR affective) adj disorder*) OR "affective symptom*" OR bipolar OR mania* OR manic* OR dysphori* OR dysthymi* OR "rapid cycl$" OR hebephreni* OR MDD).ti,ab,kf,ot,oa.
 8	exp Anxiety Disorders/ OR Stress Disorders, Post-Traumatic/
-9	(anxiet* OR anxious* OR obsessive* OR compulsi* OR ocd OR panic* OR phobi* OR agoraphobi* OR claustrophobi* OR "post-traumatic*" OR posttraumatic* OR PTSD OR "recur* thought*").ti,ab,kf,ot,oa.
+9	(anxiet* OR anxious* OR obsessive* OR compulsi* OR ocd OR panic* OR phobi* OR agoraphobi* OR claustrophobi* OR "post-traumatic*" OR posttraumatic* OR PTSD OR "recur* thought*" OR "repeating thought*" OR "repetitive thought*").ti,ab,kf,ot,oa.
 10	exp Psychotic Disorders/ OR exp Schizophrenia/ OR Affective Disorders, Psychotic/ OR Delusions/ OR Hallucinations/ OR Paranoid Disorders/ OR Dissociative Disorders/
 11	(delusion* or hallucin* or paranoi* OR psychosis OR psychoses OR psychotic* OR schizo* OR dissociation OR dissociative).ti,ab,kf,ot,oa.
 12	exp Dyssomnias/ OR exp Parasomnias/

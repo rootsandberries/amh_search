@@ -1,12 +1,14 @@
 # Abortion and mental health outcomes: A systematic review and meta-analysis
 ## Web of Science Core Collection
+### Social Science Citation Index (SSCI)--1900-present ### Science Citation Index Expanded (SCI-EXPANDED)--1900-present  
+### Conference Proceedings Citation Index-Science (CPCI-S)--1990-present ### Conference Proceedings Citation Index-Social Science & Humanities (CPCI-SSH)--1990-present ### Emerging Sources Citation Index (ESCI)--2005-present
 ## Clarivate Web of Science
 
 
 1 	TS=(abort* OR postabort* OR "post-abort*" OR "post abort*" OR feticide OR foeticide OR ((fetal* OR foetal* OR fetus* OR foetus* OR gestat* OR interpregnan* OR midtrimester* OR "mid-trimester*" OR pregnan* OR prenatal* OR "pre natal*" OR trimester*) NEAR/3 (terminat* OR "post-terminat*" OR postterminat*)) OR (pregnanc* NEAR/2 resolution) OR  (((elective* OR voluntar* OR induced) NEAR/2 (interrupt* OR terminat*)) AND (fetal* OR foetal* OR fetus* OR foetus* OR gestat* OR interpregnan* OR midtrimester* OR pregnan* OR prenatal* OR "pre natal*" OR trimester*)))
 2	TS=(((mental* OR psychological* OR psychiatric* OR emotional OR psychotic OR stress) NEAR/2 disorder*) OR ((mental* OR psycho* OR psychiatric*) NEAR/3 (condition* OR disease* OR health OR ill* OR problem$ OR well-being OR "well being" OR response* OR distress OR stress OR trauma* OR effect$)) OR ((psychological* OR psychiatric*) NEAR/0 (episode* OR outcome* OR morbidity OR consequence* OR sequela* OR symptom* OR implication* OR maladjust* OR indication* OR reaction*)))
-3	TS=(depression OR depressive* OR anxiety OR ((mood OR affective) NEAR/0 disorder) OR "affective symptom*" OR bipolar OR mania* OR manic* OR dysphori* OR dysthymi* OR rapid cycl* OR hebephreni* OR MDD)
-4	TS=(anxiet* OR anxious* OR obsessive* OR compulsi* OR ocd OR panic* OR phobi* OR agoraphobi* OR claustrophobi* OR "post-traumatic*" OR posttraumatic* OR PTSD OR "recur* thought*")
+3	TS=(depression OR depressive* OR anxiety OR ((mood OR affective) NEAR/0 disorder*) OR "affective symptom*" OR bipolar OR mania* OR manic* OR dysphori* OR dysthymi* OR "rapid cycl*" OR hebephreni* OR MDD)
+4	TS=(anxiet* OR anxious* OR obsessive* OR compulsi* OR ocd OR panic* OR phobi* OR agoraphobi* OR claustrophobi* OR "post-traumatic*" OR posttraumatic* OR PTSD OR "recur* thought*" OR "repeating thought*" OR "repetitive thought*")
 5	TS=(delusion* or hallucin* or paranoi* OR psychosis OR psychoses OR psychotic* OR schizo* OR dissociation OR dissociative)
 6	TS=((sleep* NEAR/1 (disorder* OR disturb* OR depriv* OR apnea OR syndrome* OR initiat* OR maintenance OR paralysis)) OR insomni* OR dyssomni* OR sleepless* OR hypersominia OR hypersomnolence OR narcolep* OR cataplex* OR somnambulism OR "sleep walk*" OR "sleep wake" OR parasomni*)
 7	TS=((sex* OR psychosex* OR orgasm* OR arousal) NEAR/2 (disorder* OR dysfunction*) OR dyspareuni* OR vaginism* OR "sex* aversion")
