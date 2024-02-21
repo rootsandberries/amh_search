@@ -19,9 +19,7 @@
 14	Sexual Dysfunctions, Psychological/ OR Dyspareunia/ OR "Sexual and Gender Disorders"/ OR Vaginismus/
 15	((sex* OR psychosex* OR orgasm* OR arousal) adj2 (disorder* OR dysfunction*) OR dyspareuni* OR vaginism* OR "sex* aversion").ti,ab,kf,ot,oa.
 16	exp Self-Injurious Behavior/
-17	(suicid* OR selfharm* OR "self harm*" OR selfinjur* OR "self injur*" OR selfmutilat$ OR "self mutilat*" OR selfdestruct* OR "self destruct*" OR selfpoison* OR "self poison*" OR (self adj2 cut*) OR cutt* OR selfimmolat* OR "self immolat*" OR selfinflict* OR "self inflict*" OR automutilat* OR "auto mutilat*" OR nonsuicid* OR "non-suicid*" OR parasuicid* OR "para-suicid*").ti,ab,kf,ot,oa.
- 
- 
+17	(suicid* OR selfharm* OR "self harm*" OR selfinjur* OR "self injur*" OR selfmutilat$ OR "self mutilat*" OR selfdestruct* OR "self destruct*" OR selfpoison* OR "self poison*" OR (self adj2 cut*) OR cutt* OR selfimmolat* OR "self immolat*" OR selfinflict* OR "self inflict*" OR automutilat* OR "auto mutilat*" OR nonsuicid* OR "non-suicid*" OR parasuicid* OR "para-suicid*").ti,ab,kf,ot,oa
 18	exp "Feeding and Eating Disorders"/ OR exp Hyperphagia/
 19	(anorexi* OR ((appetite OR eating) adj disorder*) OR binge* OR binging OR purg* OR bulimia OR bulimic* OR (compuls* AND (eat* or vomit*)) OR (food* AND bing*) OR hyperphagi* OR ("self induc*" AND vomit*) OR pica OR orthore* OR geophag* OR ednos OR osfed OR arfid OR "avoidant restrictive food intake" OR allotriophag*).ti,ab,kf,ot,oa.
 20	exp Substance-Related Disorders/ OR exp Drug Misuse OR exp Illicit Drugs/ OR Designer Drugs/ OR "Marijuana Use"/ OR exp Narcotics/
