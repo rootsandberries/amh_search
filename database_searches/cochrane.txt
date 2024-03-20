@@ -1,0 +1,60 @@
+# Abortion and mental health outcomes: A systematic review and meta-analysis
+## Cochrane Database of Systematic Reviews
+## The Cochrane Central Register of Controlled Trials (CENTRAL) 
+### https://www.cochranelibrary.com/advanced-search/search-manager
+
+
+Phrase search does NOT support the use of wildcards.
+Example: hearing NEXT aid* (If using wildcards, use NEXT operator)
+Note: we do not recommend that you use hyphens, and instead enclose all phrases in quotes.
+
+Example: use "exit site" not exit-site
+
+For users familiar with MeSH headings, it is possible to enter one or more MeSH searches directly in the Search Manager using the search box and the following syntax.
+
+NOTE: MeSH searches must be placed in square brackets, [ ], to be recognized
+
+To search a MeSH heading, with term explosion, use the mh label. By default, the term will be exploded
+
+Example: [mh vaccines]
+
+To search a MeSH heading, without term explosion, use the mh label and insert a caret, ^, in front of the term
+
+Example: [mh ^vaccines]
+
+Supports use of NEAR, NEAR/X and NEXT. Finds terms within close proximity to each other in the article or field(s) being searched
+
+Use * to search for zero or more characters, and ? for zero or one characters.
+
+To search using multiple labels, separate field labels using commas (:ti,ab,kw).
+
+Example: (cancer near lung):ti,ab,kw
+
+
+1	[mh ^"Abortion, Induced"] OR [mh ^"Abortion, Legal"] OR [mh ^"Abortion, Therapeutic"] OR [mh ^"Abortion, Eugenic"] OR [mh ^"Abortion Applicants"] OR [mh ^"Abortion, Criminal"] 
+2	(abort* OR postabort* OR "post abort*" OR "post abort*" OR feticide OR foeticide OR ((f?etal* OR f?etus* OR gestat* OR interpregnan* OR midtrimester* OR (mid NEAR trimester*) OR pregnan* OR prenatal* OR (pre NEAR natal*) OR trimester*) NEAR/3 (terminat* OR (post NEAR terminat*) OR postterminat*)) OR (pregnanc* NEAR/2 resolution) OR  (((elective* OR voluntar* OR induced) NEAR/2 (interrupt* OR terminat*)) AND (f?etal* OR f?etus* OR gestat* OR interpregnan* OR midtrimester* OR pregnan* OR prenatal* OR (pre NEAR natal*) OR trimester*))):ti,ab,kw
+3	#1 OR #2
+4	[mh ^"Mental disorders"] OR [mh ^"Mental health"] OR [mh ^"Psychological Well-Being"] OR [mh ^"Psychological Trauma"]
+5	(((mental* OR psychological* OR psychiatric* OR emotional OR psychotic OR stress) NEAR/2 disorder*) OR ((mental* OR psycho* OR psychiatric*) NEAR/3 (condition* OR disease* OR health OR ill* OR problem* OR "well being" OR response* OR distress OR stress OR trauma* OR effect?)) OR ((psychological* OR psychiatric*) NEAR/ (episode* OR outcome* OR morbidity OR consequence* OR sequela* OR symptom* OR implication* OR maladjust* OR indication* OR reaction*))):ti,ab,kw
+6	[mh "Mood Disorders"] OR [mh ^Depression] OR [mh ^"Affective Symptoms"]
+7	(depression OR depressive* OR anxiety OR ((mood OR affective) NEAR disorder*) OR (affective NEAR symptom*) OR bipolar OR mania* OR manic* OR dysphori* OR dysthymi* OR (rapid NEAR cycl?) OR hebephreni* OR MDD):ti,ab,kw
+8	[mh "Anxiety Disorders"] OR [mh ^"Stress Disorders, Post-Traumatic"]
+9	(anxiet* OR anxious* OR obsessive* OR compulsi* OR ocd OR panic* OR phobi* OR agoraphobi* OR claustrophobi* OR (post NEAR traumatic*) OR posttraumatic* OR PTSD OR (recur* NEAR thought*) OR (repeating NEAR thought*) OR (repetitive NEAR thought*)):ti,ab,kw
+10	[mh "Psychotic Disorders"] OR [mh Schizophrenia] OR [mh ^"Affective Disorders, Psychotic"] OR [mh ^Delusions] OR [mh ^Hallucinations] OR [mh ^"Paranoid Disorders"] OR [mh ^"Dissociative Disorders"]
+11	(delusion* or hallucin* or paranoi* OR psychosis OR psychoses OR psychotic* OR schizo* OR dissociation OR dissociative):ti,ab,kw
+12	[mh Dyssomnias] OR [mh Parasomnias]
+13	((sleep* NEAR/1 (disorder* OR disturb* OR depriv* OR apnea OR syndrome* OR initiat* OR maintenance OR paralysis)) OR insomni* OR dyssomni* OR sleepless* OR hypersominia OR hypersomnolence OR narcolep* OR cataplex* OR somnambulism OR (sleep NEAR walk*) OR "sleep wake" OR parasomni*):ti,ab,kw
+14	[mh ^"Sexual Dysfunctions, Psychological"] OR [mh ^Dyspareunia] OR [mh ^"Sexual and Gender Disorders"] OR [mh ^Vaginismus]
+15	((sex* OR psychosex* OR orgasm* OR arousal) NEAR/2 (disorder* OR dysfunction*) OR dyspareuni* OR vaginism* OR (sex* NEAR aversion)):ti,ab,kw
+16	[mh "Self-Injurious Behavior"]
+17	(suicid* OR selfharm* OR (self NEAR harm*) OR selfinjur* OR (self NEAR injur*) OR selfmutilat* OR (self NEAR mutilat*) OR selfdestruct* OR (self NEAR destruct*) OR selfpoison* OR (self NEAR poison*) OR (self NEAR/2 cut*) OR cutt* OR selfimmolat* OR (self NEAR immolat*) OR selfinflict* OR (self NEAR inflict*) OR automutilat* OR (auto NEAR mutilat*) OR nonsuicid* OR (non NEAR suicid*) OR parasuicid* OR (para suicid*)):ti,ab,kw
+18	[mh "Feeding and Eating Disorders"] OR [mh Hyperphagia]
+19	(anorexi* OR ((appetite OR eating) NEAR disorder*) OR binge* OR binging OR purg* OR bulimia OR bulimic* OR (compuls* AND (eat* OR vomit*)) OR (food* AND bing*) OR hyperphagi* OR ((self NEAR induc*) AND vomit*) OR pica OR orthore* OR geophag* OR ednos OR osfed OR arfid OR "avoidant restrictive food intake" OR allotriophag*):ti,ab,kw
+20	[mh "Substance-Related Disorders"] OR [mh "Drug Misuse"] OR [mh "Illicit Drugs"] OR [mh ^"Designer Drugs"] OR [mh ^"Marijuana Use"] OR [mh Narcotics]
+21	(((alcohol* OR drug? OR polydrug* OR substance* OR polysubstance* OR liquor*) NEAR/2 (use* OR using OR abus* OR addict* OR misus* OR dependen* OR illegal* OR illicit* OR unlawful* OR criminal* OR overdos* OR recreation* OR (over NEAR dos*) OR abstain* OR abstinen* OR consumes OR consume OR consumption OR problem$1 OR nonmedical OR "non-medical" OR criminal*)) OR ((drug* or polydrug* or substance* OR polysubstance*) NEAR/ rehab*) OR (crave* NEAR/2 inject*) OR (abusable NEAR product*) OR "hard drugs" OR "soft drugs" OR "needle fixation" OR ATOD OR "binge drinking" OR (drinking NEAR binge*) OR "habitual drinking" OR (drinking NEAR habit*) OR alcoholism OR (chemical* NEAR/0 (dependen* OR addict*)) OR ((amphetamin* OR cannabis* OR cocaine OR dexamfetamin* OR dextroamphetamin* OR dexedrine OR heroin OR marijuana OR marihuana OR methamphetamin* OR psychostimulant* OR stimulant? OR opioid* OR opiate* OR fentanyl OR benzodiazepine* OR tranquiliz* OR hallucinogen* OR amobarb* OR "angel dust" OR barbiturate* OR demerol OR hash OR hashish OR hydrocodone OR hydromorphone OR lsd OR "lysergic acid" OR mdma OR morphine OR narcotic* OR opium OR oxycodone OR oxycontin OR ecstasy OR pcp OR (street NEAR drug*) OR vicodin OR ketamine OR inhalant* OR psychedelic*) NEAR/2 (abus* or addict* or misus* or depend* or use?))):ti,ab,kw
+22	[mh "Psychotropic Drugs"]
+23	((psychiatric OR psychological) NEAR/2 (hospital* OR service* OR outpatient* OR inpatient* OR patient* OR treatment* OR admission*)):ti,ab,kw
+24	((antidepress* OR (anti NEAR depress*) OR  antianxiety OR "anti anxiety" OR antipsychotic* OR (anti NEAR psychotic*) OR psychotropic* OR stimulant* OR psychoactive OR antimanic OR "anti manic") NEAR/3 (drug* OR medicat* OR agent* OR substance*)):ti,ab,kw
+25	{OR #4-#24}
+26	#3 AND #25
+
