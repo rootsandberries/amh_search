@@ -1,0 +1,11 @@
+# Abortion and mental health outcomes: A systematic review and meta-analysis
+## Epistemonikos
+## https://www.epistemonikos.org
+
+
+(title:(abortion*) OR abstract:(abortion*)) AND (title:("mental health" OR "mental disorder*" OR depression OR PTSD OR "eating disorder*" OR anorexia OR bulimia OR "mood disorder*" OR anxiety OR bipolar OR psychosis OR "sleep disorder*" OR "sexual disorder*" OR suicid* OR "drug abuse" OR "substance use" OR "substance abuse" OR "psychiatric hospital*" OR "psychiatric medication" OR antidepressant*) OR abstract:("mental health" OR "mental disorder*" OR depression OR PTSD OR "eating disorder*" OR anorexia OR bulimia OR "mood disorder*" OR anxiety OR bipolar OR psychosis OR "sleep disorder*" OR "sexual disorder*" OR suicid* OR "drug abuse" OR "substance use" OR "substance abuse" OR "psychiatric hospital*" OR "psychiatric medication" OR antidepressant*))
+
+
+
+
+

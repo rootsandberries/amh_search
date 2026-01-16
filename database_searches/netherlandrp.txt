@@ -1,0 +1,20 @@
+# Abortion and mental health outcomes: A systematic review and meta-analysis
+## Netherland Research Portal
+## https://netherlands.openaire.eu/
+
+
+https://netherlands.openaire.eu/search/advanced/research-outcomes?f0=q&fv0=abortion&resultbestaccessright=%22Open%2520Access%22
+
+Advanced Search
+
+abortion OR "termination of pregnancy" OR "pregnancy termination"
+
+AND
+
+"well being" OR psychological OR mental OR emotional OR psychosis OR trauma OR traumatic OR bipolar OR depression OR anxiety OR affective OR panic OR PTSD OR schizophrenia OR "sleep disorder" OR "sexual disorder" OR suicide OR "self harm" OR "eating disorder" OR bulimia OR anorexia OR "drug use" OR "substance use" OR "substance abuse" OR alcohol OR antipsychotic OR antidepressant
+
+
+(abortion* OR "pregnancy termination" OR "termination of pregnancy") AND ("mental health" OR "mental disorder*" OR depression OR ptsd ORc"eating disorder*" OR anorexia OR bulimia OR "mood disorder*" OR anxiety OR bipolar OR psychosis OR "sleep disorder*" OR "sexual disorder*" OR suicid* OR "drug abuse" OR "substance use" OR "substance abuse" OR "psychiatric hospital*" OR "psychiatric medication" OR antidepressant*) 
+
+abortion|"pregnancy AROUND(3) termination" "mental health"|"mental disorder"|depression|ptsd|anorexia|bulimia|"eating disorder"|anxiety|bipolar|psychosis|"sleep disorder"|"sexual disorder"|"mood disorder"|suicide|"drug abuse"|"substance use"|"substance abuse"|psychiatric|antidepressant filetype:pdf
+

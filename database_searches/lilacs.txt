@@ -1,0 +1,15 @@
+# Abortion and mental health outcomes: A systematic review and meta-analysis
+## Latin American and Caribbean Health Science Literature (LILACS)
+## https://lilacs.bvsalud.org/en/
+
+Title, Abstract, Subject
+
+(abortion* OR "interrupcion voluntaria de embarazo" OR "interrupción del embarazo" OR aborto OR "termination of pregnancy" OR "pregnancy termination" OR "terminación del embarazo" OR abortamento OR "interrupção da gravidez") AND ("mental health" OR "mental disorder" OR "mental disorders" OR depression OR ptsd OR "eating disorder" OR "eating disorders" OR anorexia OR bulimia OR "mood disorder" OR "mood disorders" OR anxiety OR bipolar OR psychosis OR "sleep disorder" OR "sleep disorders" OR "sexual disorder" OR "sexual disorders" OR suicid* OR "drug abuse" OR "substance use" OR "substance abuse" OR "psychiatric hospital" OR "psychiatric medication" OR antidepressant* OR "salud mental" OR "trastorno mental" OR depresion OR "trastorno de estres postraumatico" OR "trastorno alimenticio" OR "trastorno del estado de animo" OR ansiedad OR psicosis OR "trastorno del sueno" OR "trastorno sexual" OR suicidio OR "abuso de drogas" OR "consumo de sustancias" OR "abuso de sustancias" OR "hospital psiquiatrico" OR "Medicación psiquiátrica" OR Antidepresivo OR "Saúde mental" OR "Transtorno mental" OR Depressão OR "Transtorno de estresse pós-traumático" OR TEPT OR "Transtorno alimentar" OR "Transtorno de humor" OR Ansiedade OR psicose OR "Transtorno do sono" OR "Transtorno sexual" OR "Uso de substâncias" OR "consumo abusivo" OR "Medicação psiquiátrica" OR "medicamentos psiquiatricos" OR Antidepressivo)
+
+Filter Database to LILACS
+
+
+
+
+
+
